@@ -1,0 +1,26 @@
+#k{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+#e{
+    border: 2px solid rgb(124, 196, 17);
+    border-radius: 10px;
+}
+#i{
+    border: 2px solid rgb(124, 196, 17);
+    border-radius: 15px;
+}
+#j{
+    border: 2px solid rgb(124, 196, 17);
+}
+#a{
+    border: 2px solid rgb(124, 196, 17);
+    border-radius: 50%;
+}
+#p{
+    border: 2px solid rgb(124, 196, 17);
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    
+}
